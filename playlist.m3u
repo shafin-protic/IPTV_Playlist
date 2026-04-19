@@ -139,14 +139,16 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="Peace TV Bangla@SD" tvg-logo="https://i.postimg.cc/TYmhPysC/fdhbsfdgh.png" group-title="Islamic",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
+#EXTINF:-1 tvg-id="Peace TV English@SD" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Islamic",Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="Islamic TV@SD" tvg-logo="https://i.postimg.cc/XvDnL3h0/wrrhg.jpg" group-title="Islamic",Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-id="Saudi Quran@SD" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Saudi Quran
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="Madina Live@SD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Madina Live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id="Peace TV English@SD" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Islamic",Peace TV English
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id="FearFactor@SD" tvg-logo="https://i.imgur.com/CIYnLWz.png" group-title="Documentary",FearFactor
+https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Bangla@SD" tvg-logo="https://i.postimg.cc/g2t9FsK3/eueu.png" group-title="Documentary",Discovery Bangla
 http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Hindi@SD" tvg-logo="https://i.postimg.cc/g2t9FsK3/eueu.png" group-title="Documentary",Discovery Hindi
@@ -155,14 +157,20 @@ http://103.229.254.25:7001/play/a071/index.m3u8
 http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="National Geographic HD Bangla@SD" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",National Geographic HD Bangla
 http://103.229.254.25:7001/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="History TV 18@SD" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Documentary",History TV 18
+http://103.229.254.25:7001/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="Documentary+@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafo6i3Geemv8PRSVWNr5xlmtZorWG0U9_Yw&s" group-title="Documentary",Documentary+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UTSAUxcem3-wdyUNHLnz
+#EXTINF:-1 tvg-id="Star Talk@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F073a7f1a-45ff-44a7-8b6b-4721a0eb01f9%2FStarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png" group-title="Documentary",Star Talk
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-664292a80e0ec7b4ce5eb28c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ya-mjE3TAycS_xjhpwhz
+#EXTINF:-1 tvg-id="Popular Science@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc6bfca5e-58fe-4ed4-a87d-5e2ccde7f085%2FLogo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="Documentary",Popular Science
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yjPgAqMVy9tSrgsdpAh8
+#EXTINF:-1 tvg-id="5-Minute Crafts@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F52b33d5e-f48e-472d-896c-94759eccc1e4%2F5-Minute_Crafts_1500x1000_White.png" group-title="Documentary",5-Minute Crafts
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=quBws_Qa9qZ4dAXydHSy
 #EXTINF:-1 tvg-id="Intelligence@SD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" group-title="Documentary",Intelligence
 https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
 #EXTINF:-1 tvg-id="Smarty@SD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png" group-title="Documentary",Smarty
 https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
-#EXTINF:-1 tvg-id="FearFactor@SD" tvg-logo="https://i.imgur.com/CIYnLWz.png" group-title="Documentary",FearFactor
-https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="History TV 18@SD" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Documentary",History TV 18
-http://103.229.254.25:7001/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="Sony SAB@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Entertain",Sony SAB
 http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809
 #EXTINF:-1 tvg-id="Sony Aath@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Entertain",Sony Aath
@@ -175,6 +183,10 @@ http://198.195.239.50:8095\StarMovies\tracks-v1a1\mono.m3u8
 http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 tvg-id="Sony Sports Ten 3 Hindi@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports",Sony Sports Ten 3 Hindi
 http://103.229.254.25:7001/play/a09q/index.m3u8
+#EXTINF:-1 tvg-id="TNA Wrestling@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5d4f68c3-82af-45e7-b2c4-39aff69f3ce0%2FTNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="Sports",TNA Wrestling
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=hh5hMkoCsAyZr-xz8x6o
+#EXTINF:-1 tvg-id="Fighters@SD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-title="Sports",Fighters
+https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
 #EXTINF:-1 tvg-id="Crazy EX@SD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348753896.png" group-title="Sports",Crazy EX
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports Range@SD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png" group-title="Sports",Sports Range
@@ -183,8 +195,6 @@ https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
 #EXTINF:-1 tvg-id="Flash Guys HD@SD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-title="Sports",Flash Guys HD
 https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
-#EXTINF:-1 tvg-id="Fighters@SD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-title="Sports",Fighters
-https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
 #EXTINF:-1 tvg-id="Nikki@SD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png" group-title="Cartoon",Nikki
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 #EXTINF:-1 tvg-id="JOY@SD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png" group-title="Cartoon",JOY
@@ -240,25 +250,7 @@ https://mumt03.tangotv.in/ONTV/index.m3u8
 http://103.229.254.25:7001/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="BTV Chattogram@SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-chattogram-bd.png" group-title="Bangladesh",BTV Chattogram
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
-#EXTINF:-1 tvg-id="Global TV@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNNiPwPMEClmrhdWy6n03kK9O3Keq9lt29w&s" group-title="Bangladesh",Global TV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/global_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Star Talk@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F073a7f1a-45ff-44a7-8b6b-4721a0eb01f9%2FStarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png" group-title="Documentary",Star Talk
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-664292a80e0ec7b4ce5eb28c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ya-mjE3TAycS_xjhpwhz
-#EXTINF:-1 tvg-id="Popular Science@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc6bfca5e-58fe-4ed4-a87d-5e2ccde7f085%2FLogo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="Documentary",Popular Science
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yjPgAqMVy9tSrgsdpAh8
-#EXTINF:-1 tvg-id="TED@SD" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Facb498f4-49a7-4221-b2a7-646302b670d7%2Fted.png" group-title="Documentary",TED
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ZD1aQ8U22vQcxWVF7sFX
-#EXTINF:-1 tvg-id="True History@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff37684ab-5eb6-48dd-8999-fbb6345689d4%2F1500x1000-DarkBG.png" group-title="Documentary",True History
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Pow4msXkDAannw-X_AHh
 #EXTINF:-1 tvg-id="WeatherSpy@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F3b058b7e-f61e-4257-ae0c-894dd648565f%2Fjukin_weatherspy_2_white.png" group-title="Documentary",WeatherSpy
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff266d71dcb00449ec030.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=HDeeMsVLuBkBwFN7QZ7w
-#EXTINF:-1 tvg-id="5-Minute Crafts@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F52b33d5e-f48e-472d-896c-94759eccc1e4%2F5-Minute_Crafts_1500x1000_White.png" group-title="Documentary",5-Minute Crafts
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=quBws_Qa9qZ4dAXydHSy
 #EXTINF:-1 tvg-id="GUSTOTV@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fd%2Fepg%2Fchannels%2Flogos%2Fgracenote%2Fdab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Documentary",GUSTOTV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=vjs1kictj9kmcqsrHP85
-#EXTINF:-1 tvg-id="Popai 1960@SD" tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FscFf0Y1eTPPm4BfNftPi7ckCCdF.jpg" group-title="Cartoon",Popai 1960
-https://vod.provider.plex.tv/library/parts/62be0add5e5872e950ed6c64-hls.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Z5UUtzN-ajmG4dEuF_tU
-#EXTINF:-1 tvg-id="TNA Wrestling@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5d4f68c3-82af-45e7-b2c4-39aff69f3ce0%2FTNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="Sports",TNA Wrestling
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=hh5hMkoCsAyZr-xz8x6o
-#EXTINF:-1 tvg-id="Documentary+@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafo6i3Geemv8PRSVWNr5xlmtZorWG0U9_Yw&s" group-title="Documentary",Documentary+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UTSAUxcem3-wdyUNHLnz

@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="BTV@SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-national-bd.png" group-title="Bangladesh",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-id="BTV Sangsad@SD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="Bangladesh",BTV Sangsad
-https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Somoy TV@SD" tvg-logo="https://images.seeklogo.com/logo-png/53/2/somoy-tv-logo-png_seeklogo-536972.png" group-title="Bangladesh",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="Ekattor TV@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmf72clI7qIdqCPgKgD0GXdYYZ15e30F05OQ&s" group-title="Bangladesh",Ekattor TV
@@ -40,7 +40,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="SATV@SD" tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="Bangladesh",SATV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1 tvg-id="Boishakhi TV@SD" tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="Bangladesh",Boishakhi TV
-http://103.229.254.25:7001/play/a067/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="My TV HD@SD" tvg-logo="https://i.postimg.cc/TPwFgr20/my-tv-logo-freekaj.png" group-title="Bangladesh",My TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Deepto TV@SD" tvg-logo="https://images.seeklogo.com/logo-png/51/2/deepto-tv-logo-png_seeklogo-513994.png" group-title="Bangladesh",Deepto TV
@@ -60,9 +60,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="RTV@SD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="Bangladesh",RTV
 http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
 #EXTINF:-1 tvg-id="Mohona TV@SD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="Bangladesh",Mohona TV
-http://103.229.254.25:7001/play/a05t/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Anando TV@SD" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangladesh",Anando TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Nagorik TV@SD" tvg-logo="https://i.postimg.cc/8Cg8wckW/nagorik.png" group-title="Bangladesh",Nagorik TV
 https://tv.kotha.im/Nagorik_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Republic Bangla@SD" tvg-logo="https://images.seeklogo.com/logo-png/60/2/republic-bangla-logo-png_seeklogo-605858.png" group-title="Kalkata News",Republic Bangla

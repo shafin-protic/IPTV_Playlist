@@ -77,8 +77,8 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 tvg-id="News18 Bangla@SD" tvg-logo="https://i.postimg.cc/RVxbjyxN/asfasf.png" group-title="Kalkata News",News18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="New Time Bangla@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-time.png" group-title="Kalkata News",New Time Bangla
-https://yuppparoriglin.akamaized.net/181224/smil:newstime.smil/playlist.m3u8?ads.channel=237&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1776587781~exp=1776609381~acl=!*/181224/smil:newstime.smil/*!/payload/yupptvott_5_-1_b2e7723387ce4692_BD_114.130.180.95_yuppfast_2_channel_115_-1/*~data=yupptvott_5_-1_b2e7723387ce4692_BD_114.130.180.95_yuppfast_2_channel_115_-1~hmac=fb2c4c65c436931292e956a865062fded0e03146080999d6be15181fcc0b3188&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NewsTime&ads.language=BEN&ads.user=0
+#EXTINF:-1 tvg-id="News Time Bangla@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-time.png" group-title="Kalkata News",News Time Bangla
+https://yuppparoriglin.akamaized.net/181224/smil:newstime.smil/playlist.m3u8?hdnts=st=1777452658~exp=1777456258~acl=!*/181224/smil:newstime.smil/*!yuppTVCom_5_25534727_47b912feb8284864_BD_114.130.180.129~data=yuppTVCom_5_25534727_47b912feb8284864_BD_114.130.180.129~hmac=803c777457a2f4874c9d90005875717639f49d34538c731cfd66cc649b40d05a&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=NEWS&ads.channel=237&ads.channel_name=NewsTime&ads.network_name=yupptv&ads.user=0
 #EXTINF:-1 tvg-id="Zee 24 Ghanta@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png?lock=720x540" group-title="Kalkata News",Zee 24 Ghanta
 https:\\d2dsoyvkr33m05.cloudfront.net\index_1.m3u8
 #EXTINF:-1 tvg-id="Kolkata TV@SD" tvg-logo="https://i.postimg.cc/MTZFrjCt/kolkata-tv.png" group-title="Kalkata News",Kolkata TV
@@ -281,11 +281,33 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/matribhumitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Green TV@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="Bangladesh",Green TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ARY News@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUcxoGlmByIaAKZ1qIFI76VQ0YHZJpz7eGA&s" group-title="International",ARY News
-https://arynews.aryzap.com/4ab0ee36945dbe40596e90b99e33a249/69f06a7f/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8?uuid=e02dd686-5524-4a94-83cb-cec86bd8a53a
 #EXTINF:-1 tvg-id="Sarjah TV@SD" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/cb/85/small_85193bcdcc44114327c4f9ad3c0fc9555c72f501.png" group-title="Islamic",Sarjah TV
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sarjah Quran@SD" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/22/d2/small_16b8c9cff14380c2ca12fa8253486730475c45d4.png" group-title="Islamic",Sarjah Quran
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 tvg-id="SH Quran@SD" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/a2/25/small_b0b3a543dc113f861f1b972c2273781147fea5ff.jpg" group-title="Islamic",SH Quran
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tarteel Quran@SD" tvg-logo="https://www.mp3quran.net/img/logo2.png" group-title="Islamic",Tarteel Quran
+https://qurango.net/radio/tarateel
+#EXTINF:-1 tvg-id="Total Crime@SD" tvg-logo="https://pbs.twimg.com/profile_images/1490747217405227012/Mu88FgPE_400x400.jpg" group-title="Documentary",Total Crime
+https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:-1 tvg-id="History Asia@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN4OyKNEUgpy1j5pUx8seZH9OYDdCaN3FcA&s" group-title="Documentary",History Asia
+https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="Epic TV@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cB-L8N-jQ-IZ-9MTtKNMLjMaePfkBEdCmw&s" group-title="Entertain",Epic TV
+https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+#EXTINF:-1 tvg-id="Huda TV@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ryrERqUtMGNbXtJR3FnxauW4mCwaQJ_GIQ&s" group-title="Islamic",Huda TV
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="Har pal Geo@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-trKOXVs-BIQ1lmTr2mD96vQchw2JZzLZbA&s" group-title="International",Har pal Geo
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Duniya News@SD" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="International",Duniya News
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Geo Tez@SD" tvg-logo="https://geotez.tv/assets/front/images/tez_logo.png" group-title="International",Geo Tez
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KTN News@SD" tvg-logo="https://i.imgur.com/RtEzpPQ.png" group-title="International",KTN News
+https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
+#EXTINF:-1 tvg-id="Lahore News@SD" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="International",Lahore News
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="News ONE@SD" tvg-logo="https://i.imgur.com/ivrRYMk.png" group-title="International",News ONE
+https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
+#EXTINF:-1 tvg-id="Food Food@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Food%20Food.png" group-title="Entertain",Food Food
+https://mumt03.tangotv.in/FOODFOOD/index.m3u8

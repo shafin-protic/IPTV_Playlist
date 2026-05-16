@@ -30,7 +30,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-id="NTV@SD" tvg-logo="https://images.seeklogo.com/logo-png/39/2/ntv-channel-logo-png_seeklogo-396286.png" group-title="Bangladesh",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="Ekushey TV@SD" tvg-logo="https://images.seeklogo.com/logo-png/39/2/ekushe-tv-etv-logo-png_seeklogo-396361.png" group-title="Bangladesh",Ekushey TV
-http:\\210.4.72.204\hls-live\livepkgr\_definst_\liveevent\livestream3.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="Channel I@SD" tvg-logo="https://images.seeklogo.com/logo-png/53/2/channel-i-logo-png_seeklogo-532023.png" group-title="Bangladesh",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-id="Global TV@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/11/globaltv.jpg" group-title="Bangladesh",Global TV
@@ -68,7 +68,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="Anando TV@SD" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangladesh",Anando TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Nagorik TV@SD" tvg-logo="https://i.postimg.cc/8Cg8wckW/nagorik.png" group-title="Bangladesh",Nagorik TV
-https://tv.kotha.im/Nagorik_TV_HD/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Republic Bangla@SD" tvg-logo="https://images.seeklogo.com/logo-png/60/2/republic-bangla-logo-png_seeklogo-605858.png" group-title="Kalkata News",Republic Bangla
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
 #EXTINF:-1 tvg-id="TV9 Bangla@SD" tvg-logo="https://i.postimg.cc/qqJ6Kp6P/asff.jpg" group-title="Kalkata News",TV9 Bangla
@@ -89,6 +89,8 @@ https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 tvg-id="R plus@SD" tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="Kalkata News",R plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 tvg-id="Bangla Jago@SD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/35/Banglajago_TV_logo_%282015%29.png/revision/latest/smart/width/386/height/259?cb=20210429041222" group-title="Kalkata News",Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-id="Ananda Barta@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_Barta.png" group-title="Kalkata News",Ananda Barta
 https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
 #EXTINF:-1 tvg-id="Akaash Aat@SD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Kalkata News",Akaash Aat
@@ -183,6 +185,10 @@ https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 tvg-id="Tarteel Quran@SD" tvg-logo="https://www.mp3quran.net/img/logo2.png" group-title="Al-Quran",Tarteel Quran
 https://qurango.net/radio/tarateel
+#EXTINF:-1 tvg-id="Roqiah@SD" tvg-logo="https://i.pinimg.com/564x/31/39/1d/31391d84908e4c14cafee9b5344e6584.jpg" group-title="Al-Quran",Roqiah
+https://qurango.net/radio/roqiah
+#EXTINF:-1 tvg-id="Egypt Quran 93.1@SD" tvg-logo="https://i.pinimg.com/564x/5e/92/4d/5e924dbe9f53f8611cb9d15828205ff9.jpg" group-title="Al-Quran",Egypt Quran 93.1
+https://n13.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABnhYwCmcAo2jAyD6yI4gwbw
 #EXTINF:-1 tvg-id="FearFactor@SD" tvg-logo="https://i.imgur.com/CIYnLWz.png" group-title="ASMR",FearFactor
 https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Bangla@SD" tvg-logo="https://i.postimg.cc/g2t9FsK3/eueu.png" group-title="Science",Discovery Bangla
@@ -201,6 +207,8 @@ https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="5-Minute Crafts@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F52b33d5e-f48e-472d-896c-94759eccc1e4%2F5-Minute_Crafts_1500x1000_White.png" group-title="ASMR",5-Minute Crafts
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=quBws_Qa9qZ4dAXydHSy
+#EXTINF:-1 tvg-id="Animal Planet@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Documentary",Animal Planet
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-id="Documentary+@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafo6i3Geemv8PRSVWNr5xlmtZorWG0U9_Yw&s" group-title="Documentary",Documentary+
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UTSAUxcem3-wdyUNHLnz
 #EXTINF:-1 tvg-id="Popular Science@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc6bfca5e-58fe-4ed4-a87d-5e2ccde7f085%2FLogo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="Documentary",Popular Science
@@ -361,3 +369,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff266d71d
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=vjs1kictj9kmcqsrHP85
 #EXTINF:-1 tvg-id="Star Talk@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F073a7f1a-45ff-44a7-8b6b-4721a0eb01f9%2FStarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png" group-title="Documentary",Star Talk
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-664292a80e0ec7b4ce5eb28c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ya-mjE3TAycS_xjhpwhz
+#EXTINF:-1 tvg-id="IPL 2026@SD" tvg-logo="" group-title="Sports",IPL 2026
+http://premimum.online/live/jen12345/jen54321/124281.ts
+#EXTINF:-1 tvg-id="IPL 2026@SD" tvg-logo="" group-title="Sports",IPL 2026
+http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
